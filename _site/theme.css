@@ -9309,7 +9309,7 @@ a {
 
 #navlist {
   padding-top: 1rem;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
   text-align: center;
   margin-left: 0;
 }
@@ -9473,3 +9473,7 @@ a {
     font-style: italic;
 }
 
+.wrapper {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
