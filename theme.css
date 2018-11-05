@@ -9237,10 +9237,19 @@ body {
 }
 
 #bgcontainer {
-background: rgb(240,240,240);
+background: #F2F1E8;
 /*background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(246,246,246,1) 100%);*/
 }
 
 .border-beige {
   background-color: #D1CFC4;
+}
+
+.left-line {
+  border-left: black solid 1px;
+  text-align: right;
+  margin-left: -80px;
+  display: inline-block;
+  position: absolute;
+  height: 80%;
 }
