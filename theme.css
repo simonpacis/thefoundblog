@@ -9253,3 +9253,16 @@ background: #F2F1E8;
   position: absolute;
   height: 80%;
 }
+
+.center-line {
+  border-top: black solid 1px;
+}
+
+.mr-100
+{
+  margin-right: -100px;
+}
+
+.pb-0 {
+  padding-bottom: 10px !important;
+}
