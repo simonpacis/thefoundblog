@@ -1,39 +1,52 @@
 ---
 layout: post
-title:  "BRÆTHless"
+title:  "TEST POEM"
 date:   2018-11-05 15:20:33 +0100
 author: Simon Pacis
 categories: jekyll update
 image: /images/EMI_6458.JPG
 ---
-BLOWN  
-are we. Dispersed far and wide  
-RIPPED  
-clean through our wretched hearts  
-EXHAUSTED  
-is the generation searching for hope in the darkness  
-APATHETIC  
-are we in our stumbling search for life  
-KILLED  
-is our horrendous existence, our deplorability  
-  
-we're screaming for meaning, the emptiness leads us to sob  
-where  
-is  
-my  
-life  
-  
-The gloomy bearers of the standards are triumphing the neglect of life  
-**NOT MY LORD**  
-That's alright but keep your faith to yourself  
-That's alright but keep the eternal source to yourself  
-That's alright but keep the only one who can save me to yourself  
-THAT'S ALRIGHT but damn it keep the CREATOR OF THE WORLD away from me!  
-  
-We're the breathless generation unable to get enough of ourselves and yet despite this we still hate ourselves and all that we and ourselves carry of symbols and connotations  
-  
-I can  
-We can  
-Look at what humanity can  
-  
-Look at the emptiness our land became
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST  
+TEST  
+POST
