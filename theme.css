@@ -9311,7 +9311,7 @@ a {
 
 #navlist {
   padding-top: 1rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   text-align: center;
   margin-left: 0;
 }
@@ -9340,6 +9340,10 @@ a {
   #authortext
   {
     font-size: 0.7rem;
+  }
+  #navlist {
+    padding-bottom: 0rem;
+    padding-top: 0rem;
   }
 }
 
@@ -9482,4 +9486,8 @@ a {
 .wrapper {
   padding-left: 0 !important;
   padding-right: 0 !important;
+}
+
+.post-title, #page h1 {
+  font-family: Gotham; font-weight: 900; text-transform: uppercase; text-align: center;
 }
