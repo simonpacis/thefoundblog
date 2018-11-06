@@ -9491,3 +9491,7 @@ a {
 .post-title, #page h1 {
   font-family: Gotham; font-weight: 900; text-transform: uppercase; text-align: center;
 }
+
+#page h1 {
+  margin-bottom: 30px;
+}
