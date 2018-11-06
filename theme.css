@@ -9305,6 +9305,8 @@ a {
 {
   font-size: 24px;
   font-weight: 300;
+  font-family: "Unna";
+  letter-spacing: 0.5px;
 }
 
 #navlist {
