@@ -9229,14 +9229,14 @@ a.text-dark:hover, a.text-dark:focus {
 /*# sourceMappingURL=bootstrap.css.map */
 
 .bg-gradient {
-  background: #f7f6f1;
+  background: #fff;
 }
 body {
-  background-color: #f7f6f1;
+  background-color: #fff;
 }
 
 #bgcontainer {
-background: #f7f6f1;
+background: #fff;
 /*background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(246,246,246,1) 100%);*/
 }
 
