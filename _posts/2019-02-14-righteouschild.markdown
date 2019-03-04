@@ -13,7 +13,7 @@ In the midst of your grace I burn it all down, all with a smile on my face
 I force you to fit  
 To fit my expectations of you  
 And if you don’t, woe to you!  
-How dare you, creator, not to listen to me, the highliest of all, created?  
+How dare you, creator, not listen to me, the highliest of all, created?  
   
 I but follow the noble traditions   
 Of our bravest the Israelites  
