@@ -12,7 +12,7 @@ Yet to be disproved, they’re empowering
 Yet to weigh me down, they’re flowering  
 I’ll live my very best life now  
 I’ll sow my first fruits  
-How he’ll open the floodgates before me  
+How He’ll open the floodgates before me  
   
 Idolatry is a fickle commodity  
 Serving my being, giving my all  
