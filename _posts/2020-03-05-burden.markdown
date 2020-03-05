@@ -1,11 +1,11 @@
----
-layout: post
-title:  "Burden"
-date:   2020-03-05 06:00:00 +0100
-author: Simon Pacis
-categories: jekyll update
-image: /images/burden.jpg
----
+---    
+layout: post    
+title:  "Burden"    
+date:   2020-03-05 06:00:00 +0100    
+author: Simon Pacis    
+categories: jekyll update    
+image: /images/burden.jpg    
+---    
 Your sin is a burden  
 It’s what weighs you down, it’s what has to drown  
 It’s the poison of your life, watch it take your crown  
@@ -41,6 +41,5 @@ Watch it devour the flesh you seek to outguess
   
 Are you accountable yet?  
 Are you satisfied yet?  
-Are you free from bonds yet?  
-Are you whole yet?  
-Are you at peace yet?  
+Are you free from bonds yet?    
+Do you feel burdened yet?
