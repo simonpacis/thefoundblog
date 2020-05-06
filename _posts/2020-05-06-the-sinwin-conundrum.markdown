@@ -29,4 +29,4 @@ Not in myself and not in gold
   
 ____  
   
-Continuing the theme from “Burden”, I wrote “The Sinwin Conundrum” to reflect on some of the frustrations that inevitably arise when we try to make ourselves better through our own might.
+Continuing the theme from “Burden”, I wrote “The Sinwin Conundrum” to reflect on some of the frustrations that inevitably arise when we walk by our own might, when we realize that we leave a trail of desolation behind us.
